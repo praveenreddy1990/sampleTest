@@ -6,6 +6,8 @@ public class HelloGreeter implements Greeter {
 	public void perform() {
 		System.out.println("Hello World from Hello Greeter");
 		System.out.println("Hello World from Praveen");
+		System.out.println("Hello World from Praveen");
+		System.out.println("Hello World from Praveen");
 
 	}
 
